@@ -1,0 +1,8 @@
+{
+  "name": "connachtapp",
+  "displayName": "connachtapp",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1593000496031877~3967230982",
+    "ios_app_id": "ca-app-pub-1593000496031877~2904745962"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "755226439848",
+    "project_id": "nodefirebasefile",
+    "storage_bucket": "nodefirebasefile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755226439848:android:2784bfc7daafc3f61a529d",
+        "android_client_info": {
+          "package_name": "co.uk.dued"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755226439848-lv0mg8orccjg61udduhb37ieab5qmdon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xaOqR4-R86lzuv_RE9lH8yMHcjNEY-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755226439848-lv0mg8orccjg61udduhb37ieab5qmdon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755226439848-93ktv4urtkacdmdsg2lcpo05ngqc5al5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dued.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755226439848:android:4bc2ddd4de071d401a529d",
+        "android_client_info": {
+          "package_name": "com.connachtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755226439848-lv0mg8orccjg61udduhb37ieab5qmdon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xaOqR4-R86lzuv_RE9lH8yMHcjNEY-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755226439848-lv0mg8orccjg61udduhb37ieab5qmdon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755226439848-93ktv4urtkacdmdsg2lcpo05ngqc5al5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dued.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Georgia.ttf",
+      "sha1": "f856787ba70ff46e49dd52ba092bea6755c810b5"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Bold.otf",
+      "sha1": "bf257f6f91f6522eccea6d4f28d57bb118c98729"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "bf257f6f91f6522eccea6d4f28d57bb118c98729"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "9ca420aa453eb243037970c0c1c1adfe289f510f"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "94932936555",
+    "firebase_url": "https://connacht-tribune.firebaseio.com",
+    "project_id": "connacht-tribune",
+    "storage_bucket": "connacht-tribune.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94932936555:android:08b6181126cdb4a1",
+        "android_client_info": {
+          "package_name": "boonagency.connachttribune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94932936555-3fu5fv446pa06jd33ga9ij28vknvebkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boonagency.connachttribune",
+            "certificate_hash": "422e4464988d35f008afbdca552a42200a73b478"
+          }
+        },
+        {
+          "client_id": "94932936555-3n0qcbpid6ttonuu3cpfe3kupd4f992m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boonagency.connachttribune",
+            "certificate_hash": "92ef1446540ddcfebd8a5493c29e7b94e1e99fd2"
+          }
+        },
+        {
+          "client_id": "94932936555-738nn8mertdm9l4tr03gpvdcovc3vnrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boonagency.connachttribune",
+            "certificate_hash": "46c446241a9c6c4a4e441482e0c91c6dad5d8453"
+          }
+        },
+        {
+          "client_id": "94932936555-binvkjmen6a4ehk82rnilfiqfm8lb9dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boonagency.connachttribune",
+            "certificate_hash": "23d53fa40ed3f6556ef663f2d83f4fb65d61c729"
+          }
+        },
+        {
+          "client_id": "94932936555-k9l1i8uprorjndupih9ol7e1lu8qi684.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boonagency.connachttribune",
+            "certificate_hash": "93a1094999852ff2d530a20e5091986268d08337"
+          }
+        },
+        {
+          "client_id": "94932936555-3dtsgqgdi2qn719osukeblh6vhu8mg3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWYcXishYu7d0n8uZ_UAb2Qkg331tXf0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94932936555-3dtsgqgdi2qn719osukeblh6vhu8mg3b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94932936555-308cq3ikhrn1bm3oprrcu3h7e7qcuabe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "boonagency.connachttribune"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

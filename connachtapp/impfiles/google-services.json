@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "755226439848",
+    "project_id": "nodefirebasefile",
+    "storage_bucket": "nodefirebasefile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755226439848:android:dc66be3b96efbf6d1a529d",
+        "android_client_info": {
+          "package_name": "boonagency.connachttribune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755226439848-nr5b3q2olnejjvk9ahocjc0fopel2fv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boonagency.connachttribune",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "755226439848-utjucgv1tdfge5qva0tl3nhs4o78ffo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xaOqR4-R86lzuv_RE9lH8yMHcjNEY-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755226439848-lv0mg8orccjg61udduhb37ieab5qmdon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755226439848-93ktv4urtkacdmdsg2lcpo05ngqc5al5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dued.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755226439848:android:2784bfc7daafc3f61a529d",
+        "android_client_info": {
+          "package_name": "co.uk.dued"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755226439848-utjucgv1tdfge5qva0tl3nhs4o78ffo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xaOqR4-R86lzuv_RE9lH8yMHcjNEY-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755226439848-lv0mg8orccjg61udduhb37ieab5qmdon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755226439848-93ktv4urtkacdmdsg2lcpo05ngqc5al5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dued.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755226439848:android:4bc2ddd4de071d401a529d",
+        "android_client_info": {
+          "package_name": "com.connachtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755226439848-bh2g8rj9sdb4olo8veuof24kafrm2naj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connachtapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "755226439848-utjucgv1tdfge5qva0tl3nhs4o78ffo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xaOqR4-R86lzuv_RE9lH8yMHcjNEY-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755226439848-lv0mg8orccjg61udduhb37ieab5qmdon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755226439848-93ktv4urtkacdmdsg2lcpo05ngqc5al5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dued.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Connacht Tribune Live</string>
+    <!-- <string name="facebook_app_id">460665147679740</string>
+<string name="facebook_client_token">fb460665147679740</string> -->
+
+
+<string name="facebook_app_id">1898662967174559</string>
+<string name="fb_login_protocol_scheme">fb1898662967174559</string>
+<string name="facebook_client_token">471bc2a943dd85dc19fe78b6c4d611d8</string>
+
+</resources>
